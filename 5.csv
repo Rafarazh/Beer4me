@@ -1165,7 +1165,7 @@ Sahti Fetish*,3296,Farmhouse Ale - Sahti,76,Fetish Brewing Company,6.53,3.5,0,0,
 Jelonki,3297,Farmhouse Ale - Sahti,76,Browar Bazyliszek,9,3.36,0,0,0,0,0,0,0,0,0,0,0,0,0
 Puhti IV B,3298,Farmhouse Ale - Sahti,76,Lammin Sahti Oy,7,3.82,0,0,0,0,0,0,0,0,0,0,0,0,0
 Viking Ale,3299,Farmhouse Ale - Sahti,76,Cloudcroft Brewing Company,12.1,3.83,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Mjolnir (""Thor's Hammer"")",3300,Farmhouse Ale - Sahti,76,Cloudcroft Brewing Company,15,4.12,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mjolnir (""Thor's Hammer""),3300,Farmhouse Ale - Sahti,76,Cloudcroft Brewing Company,15,4.12,0,0,0,0,0,0,0,0,0,0,0,0,0"
 Tank 7,1852,Farmhouse Ale - Saison,45,Boulevard Brewing Co,8.5,4.19,20,38,16,37,23,39,34,70,4,86,58,30,17
 Sofie,1853,Farmhouse Ale - Saison,45,Goose Island Beer Co,6.5,4.12,20,38,24,29,18,20,31,102,0,90,32,39,29
 Saison Dupont,1854,Farmhouse Ale - Saison,45,Brasserie Dupont sprl,6.5,4.21,20,38,30,39,12,25,22,55,3,44,47,23,19
@@ -1421,7 +1421,7 @@ Furious,1267,IPA - American,32,Surly Brewing Company,6.7,4.3,50,70,11,24,5,57,45
 Lunch,1268,IPA - American,32,Maine Beer Company,7,4.39,50,70,26,54,15,64,56,79,0,97,102,5,49
 Fresh Squeezed IPA,1269,IPA - American,32,Deschutes Brewery,6.4,4.26,50,70,16,41,4,62,46,54,1,67,85,3,41
 Flower Power India Pale Ale,1270,IPA - American,32,Ithaca Beer Company,7.2,4.24,50,70,17,26,14,44,38,38,1,61,75,0,35
-"Smuttynose IPA ""Finest Kind""",1271,IPA - American,32,Smuttynose Brewing Company,6.9,4.12,50,70,21,27,14,70,39,55,0,67,93,6,38
+"Smuttynose IPA ""Finest Kind"",1271,IPA - American,32,Smuttynose Brewing Company,6.9,4.12,50,70,21,27,14,70,39,55,0,67,93,6,38"
 ApriHop,1272,IPA - American,32,Dogfish Head Craft Brewery,7,3.87,50,70,20,21,16,70,106,62,1,107,80,6,45
 Harvest Ale,1273,IPA - American,32,Founders Brewing Company,7.6,4.26,50,70,18,38,9,75,32,44,0,60,117,3,31
 Duet,1274,IPA - American,32,Alpine Beer Company,7,4.34,50,70,31,21,7,60,31,56,1,77,91,6,27
@@ -3937,7 +3937,6 @@ Roggen With The Devil,590,Rye Beer - Roggenbier,15,Greenpoint Beer & Ale Company
 Roggen Roll Ale,591,Rye Beer - Roggenbier,15,Schoppe BrÃ¤u,7,3.24,10,20,0,0,0,0,0,0,0,0,0,0,0
 Roggenbier,592,Rye Beer - Roggenbier,15,Flossmoor Station Restaurant & Brewery,5.25,3.61,10,20,0,0,0,0,0,0,0,0,0,0,0
 Rail Grab German Rye,593,Rye Beer - Roggenbier,15,Rip Current Brewing,5.25,3.85,10,20,0,0,0,0,0,0,0,0,0,0,0
-Crazy Jackass Ale,594,Rye Beer - Roggenbier,15,Sweetwater Tavern & Brewery,5.5,3.84,10,20,0,0,0,0,0,0,0,0,0,0,0
 Apetyt Na Zycie,595,Rye Beer - Roggenbier,15,Browar Pinta,5,3.4,10,20,1,10,3,1,4,3,0,5,4,1,9
 Roggenbier,596,Rye Beer - Roggenbier,15,Elm City Brewing Co,5.25,3.67,10,20,3,5,0,1,1,7,0,2,1,8,9
 Roggenbier,597,Rye Beer - Roggenbier,15,The Bruery,5.6,4,10,20,0,0,0,0,0,0,0,0,0,0,0
@@ -4414,7 +4413,7 @@ Valdez,3836,Stout - American,88,Pisgah Brewing Co,6.2,4.15,35,60,18,86,12,130,57
 Blueberry Maple Stout,3837,Stout - American,88,Saugatuck Brewing Company,6,3.95,35,60,3,58,3,22,196,5,0,71,7,4,122
 CEO Stout,3838,Stout - American,88,Right Brain Brewery,5.5,3.8,35,60,6,78,5,75,44,6,0,3,7,7,128
 Irish Channel StoutNew Orleans Lager & Ale Brewing Company (NOLA),3839,Stout - American,88,New Orleans Lager & Ale Brewing Company (NOLA),6.8,3.99,35,60,12,76,14,64,51,1,0,2,40,5,122
-"Survival ""7-Grain"" Stout",3840,Stout - American,88,Hopworks Urban Brewery,5.3,04.03,35,60,21,71,8,88,32,12,0,7,18,19,175
+"Survival ""7-Grain"" Stout,3840,Stout - American,88,Hopworks Urban Brewery,5.3,04.03,35,60,21,71,8,88,32,12,0,7,18,19,175"
 CrÃ¨me BrÃ»lÃ©e Java Stout,3841,Stout - American,88,Kuhnhenn Brewing Company,5.8,4.17,35,60,5,99,13,105,78,9,2,2,22,35,134
 Black Phoenix (Chipotle Coffee Ale),3842,Stout - American,88,Bootlegger's Brewery,6.7,3.78,35,60,8,80,31,83,58,5,0,5,16,116,127
 Oompa Loompa Chocolate Cream Stout,3843,Stout - American,88,Fat Head's Brewery & Saloon,6.5,3.75,35,60,18,160,8,63,112,8,1,5,30,48,141
@@ -4758,7 +4757,7 @@ Otto From The Wood,4540,Strong Ale - American,103,Hair Of The Dog Brewing Compan
 Peach Barrel Wheat Ale,4541,Strong Ale - American,103,Alltech's Lexington Brewing and Distilling Co,8,3.49,40,100,7,36,33,4,36,18,1,61,5,9,42
 Conntucky Lightnin' Bourbon Ale,4542,Strong Ale - American,103,Two Roads Brewing Company,8.5,3.73,40,100,19,46,89,16,67,55,4,42,19,26,126
 BART,4544,Strong Ale - American,103,FiftyFifty Brewing Co,12,4.14,40,100,6,83,62,38,96,22,0,24,19,27,129
-Mack In Black,4545,Strong Ale - American,103,"Holy Mackerel Small Batch Beers ""the garage project""",8,3.5,40,100,13,79,20,58,102,53,0,79,34,6,104
+"Mack In Black,4545,Strong Ale - American,103,""Holy Mackerel Small Batch Beers """"the garage project"""""",8,3.5,40,100,13,79,20,58,102,53,0,79,34,6,104"
 Kentucky Old Fashioned Barrel Ale,4546,Strong Ale - American,103,Alltech's Lexington Brewing and Distilling Co,10,3.75,40,100,8,52,76,57,70,56,0,100,48,18,89
 Super Kitty,4547,Strong Ale - American,103,Keegan Ales,12,3.96,40,100,7,56,50,63,102,26,0,26,75,7,97
 Plaid Habit,4548,Strong Ale - American,103,Boulevard Brewing Co,13.9,4.21,40,100,10,49,97,23,108,8,0,30,13,46,114
